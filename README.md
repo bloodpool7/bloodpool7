@@ -1,16 +1,19 @@
-## Hi there 👋
+[comment]: <table>
+[comment]:  <tr>
+[comment]:    <td align="center" style="padding=0;width=50%;">
+[comment]:      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=bloodpool7: good&show_icons=true&theme=radical&show_owner=false">
+[comment]:    </td>
+[comment]:    <td align="center" style="padding=0;width=50%;">
+[comment]:      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=bloodpool7&layout=compact&theme=radical">
+[comment]:    </td>
+[comment]:  </tr>
+[comment]:</table>
 
-<!--
-**bloodpool7/bloodpool7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rishabhs's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodpool7&theme=radical&layout=compact)
 
-Here are some ideas to get you started:
+## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=NeuralNet&theme=radical)](https://github.com/bloodpool7/NeuralNet) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=RandomTransformer&theme=radical)](https://github.com/bloodpool7/RandomTransformer) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=RandomTransformer&theme=radical)](https://github.com/bloodpool7/RandomTransformer) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=bloodpool7)
