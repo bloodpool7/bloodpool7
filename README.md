@@ -15,5 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=NeuralNet&theme=radical)](https://github.com/bloodpool7/NeuralNet) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=RandomTransformer&theme=radical)](https://github.com/bloodpool7/RandomTransformer) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=Cryptography&theme=radical)](https://github.com/bloodpool7/Cryptography) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=ImageDiffusion&theme=radical)](https://github.com/bloodpool7/ImageDiffusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bloodpool7&repo=SnakeSSN&theme=radical)](https://github.com/bloodpool7/SnakeSSN)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bloodpool7)
